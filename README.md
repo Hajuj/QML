@@ -14,7 +14,7 @@ To replicate the results from our paper, follow these steps:
 
 2. **Classical A2C Algorithms:**
    - For the pure classical A2C with a 4-layer hidden architecture, navigate to `arch1/a2c_4` and run the `a2c.py` script.
-   - For the classical A2C with a 5-layer hidden architecture and post-processing NN, navigate to `arch1/a2c_5_ppnn` and run the `a2c.py` script.
+   - For the classical A2C with a 5-layer hidden architecture, navigate to `arch1/a2c_5_ppnn` and run the `a2c.py` script.
 
 3. **Random Agent:**
    - Navigate to the `random` folder.
