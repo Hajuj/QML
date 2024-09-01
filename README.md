@@ -1,5 +1,5 @@
 # Quantum Advantage Actor-Critic for Reinforcement Learning
-
+Paper: https://arxiv.org/abs/2401.07043
 ## Overview
 
 This project involves implementing and evaluating a Quantum Advantage Actor-Critic (QA2C) for reinforcement learning tasks. The QA2C is designed with different rotation gate architectures and a hybrid model incorporating post-processing Neural Networks (NN). The goal is to explore the performance of pure and hybrid quantum circuits in reinforcement learning and compare them with classical approaches and a random agent baseline.
